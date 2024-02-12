@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702485003 source:c:\mbit\icpc\mini project\roomie_searcher_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
